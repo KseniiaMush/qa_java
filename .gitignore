@@ -50,6 +50,11 @@ hs_err_pid*
 
 ### Mac OS ###
 .DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/test/java/
 
 ### NetBeans ###
 /nbproject/private/
